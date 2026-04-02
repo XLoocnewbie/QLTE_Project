@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">frontend_qlte</string>
+    <string name="accessibility_service_description">
+        Dịch vụ kiểm soát ứng dụng bị chặn
+    </string>
+</resources>
